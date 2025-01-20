@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Doubt Dekho - Homepage</title>
+</head>
+<body>
+    <header>
+        <h1>Doubt Dekho</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="services.html">Services</a>
+            <a href="pricing.html">Pricing</a>
+            <a href="testimonials.html">Testimonials</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2>Master Your Doubts</h2>
+            <p>Join our online mentorship for personalized doubt-solving and academic success today!</p>
+            <a href="signup.html" class="btn">Start Free Trials</a>
+        </section>
+
+        <section class="about">
+            <h2>Empowering Students Through Mentorship</h2>
+            <p>At Doubt Dekho, we provide online mentorship and doubt-solving sessions tailored for students, ensuring they receive the guidance needed to excel in their academic journey.</p>
+        </section>
+
+        <section class="testimonials">
+            <h2>Student Success</h2>
+            <blockquote>
+                <p>Doubt Dekho has been a game-changer for me! The platform's expert teachers and personalized guidance helped me conquer my doubts and fears.</p>
+                <footer>- Rhuten, Gujrat</footer>
+            </blockquote>
+            <blockquote>
+                <p>I'm Garima Murkey, and I'm thrilled to share my success story! I cracked NEET on my first attempt with a score of 656.</p>
+                <footer>- Garima, Maharashtra</footer>
+            </blockquote>
+        </section>
+    </main>
+
+    <footer>
+        <p>Contact us: hr@doubtdekho.com | +91 82352 39482</p>
+        <p>© 2023 Doubt Dekho. All rights reserved.</p>
+    </footer>
+</body>
+</html>
